@@ -5,3 +5,4 @@ symphony
 # 25207fea8e832aa5470669eee9acf58cb86fc9f5
 # https://www.youtube.com/watch?v=Bo0guUbL5uo
 # https://www.osradar.com/install-symfony-php-framework-ubuntu-18-04/
+# https://usefulangle.com/post/96/aws-ec2-install-linux-apache-mysql-php-phpmyadmin-lamp-stack-ubuntu-18-04
