@@ -4,3 +4,4 @@ symphony
 # 1709df7bcae6985b022636a6538f4f02709f88cc
 # 25207fea8e832aa5470669eee9acf58cb86fc9f5
 # https://www.youtube.com/watch?v=Bo0guUbL5uo
+# https://www.osradar.com/install-symfony-php-framework-ubuntu-18-04/
